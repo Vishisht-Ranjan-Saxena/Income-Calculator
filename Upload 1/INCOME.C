@@ -13,7 +13,7 @@
 //Authors :  Vishisht Ranjan Saxena
 
 //This program calculates your income as per the given data.
-//All datas are publicly available; No CONFEDENTIAL Leak!
+//All datas are publicly available; No CONFIDENTIAL Leak!
 
 
 #include "stdio.h"
